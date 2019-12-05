@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spacex-graphql/static/css/main.c9fd153a.chunk.css",
+    "main.js": "/spacex-graphql/static/js/main.d9f4ec42.chunk.js",
+    "main.js.map": "/spacex-graphql/static/js/main.d9f4ec42.chunk.js.map",
+    "runtime-main.js": "/spacex-graphql/static/js/runtime-main.6885bbff.js",
+    "runtime-main.js.map": "/spacex-graphql/static/js/runtime-main.6885bbff.js.map",
+    "static/js/2.ae5a90eb.chunk.js": "/spacex-graphql/static/js/2.ae5a90eb.chunk.js",
+    "static/js/2.ae5a90eb.chunk.js.map": "/spacex-graphql/static/js/2.ae5a90eb.chunk.js.map",
+    "index.html": "/spacex-graphql/index.html",
+    "precache-manifest.73c4abd9ade5ac84ea306578a47faaff.js": "/spacex-graphql/precache-manifest.73c4abd9ade5ac84ea306578a47faaff.js",
+    "service-worker.js": "/spacex-graphql/service-worker.js",
+    "static/css/main.c9fd153a.chunk.css.map": "/spacex-graphql/static/css/main.c9fd153a.chunk.css.map",
+    "static/js/2.ae5a90eb.chunk.js.LICENSE": "/spacex-graphql/static/js/2.ae5a90eb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6885bbff.js",
+    "static/js/2.ae5a90eb.chunk.js",
+    "static/css/main.c9fd153a.chunk.css",
+    "static/js/main.d9f4ec42.chunk.js"
+  ]
+}
